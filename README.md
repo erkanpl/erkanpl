@@ -2,7 +2,7 @@
 
 **`Developer`**
 
-### 🧰 Languages and Tools
+### 🧰 Work i do
 
 🪧Currently working on custom <b>scripts</b><br>
 💲Searching for new clients to build a <b>Full FiveM Server</b><br>
