@@ -4,8 +4,8 @@
 
 ### 🧰 Languages and Tools
 
-🪧Currently working on custom <b>scripts</b>
-💲Searching for new clients to build a <b>Full FiveM Server</b>
+🪧Currently working on custom <b>scripts</b><br>
+💲Searching for new clients to build a <b>Full FiveM Server</b><br>
 
 #
 
